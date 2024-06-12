@@ -7,7 +7,7 @@ function App() {
     <>
       <div classNameNameName="App">
         <h1> Jai Shrikrishna</h1>
-        <Navbar title="MyNavbar" /> {/* We're calling Navbar and will pass actual parameters (props) */}
+        <Navbar title="MyNavbar" aboutText="Thissssss" /> {/* We're calling Navbar and will pass actual parameters (props) */}
       </div>
     </>
   );
